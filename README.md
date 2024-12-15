@@ -1,7 +1,3 @@
-Here’s a detailed README description for your project, tailored for GitHub:  
-
----
-
 # **NLP-Driven Fake Review Detection System**  
 
 ## **Overview**  
